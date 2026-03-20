@@ -1,0 +1,10 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=61453 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-8-program-2-map-app-jsonnek/out/production/Map APP Main
+Enter your username:
+jonathan.sonnek
+Enter your password:
+wrong
+Invalid password. Please try again.
+b6wy4j1v
+Hello jonathan.sonnek Here is your message: Your request has been approved.
+
+Process finished with exit code 0
